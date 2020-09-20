@@ -1,8 +1,11 @@
 # Portifolio
 
 #### Description
-Alone we can do so little, but together we can do so much.
-#### By **{List of contributors}**
+Alone we can do so little, but together we can do so much
+
+####**List of contributors**
+
+_Claudine Kuradusenge_
 
 ## Setup/Installation Requirements
 * html
@@ -30,6 +33,10 @@ If you have any question, suggestion or comment related to my project, feel free
 *** Licence
 
 MIT
+
+copyright (c) 2020, Claudine Kuradusenge
+
+
 
 
 
