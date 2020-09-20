@@ -25,6 +25,11 @@ My project is mostly about what i have achieved so far at Moringa School. I want
 _I used the them separetly and linked them to join the codes._
 
 ## Support and contact details
-If you have any question or suggestion or comment on my projects, feel free to send me email. Here is my E-mail: claudinekuradusenge2@gmail.com
+If you have any question, suggestion or comment related to my project, feel free to email me. Here is my E-mail: claudinekuradusenge2@gmail.com
+
+*** Licence
+
+MIT
+
 
 
