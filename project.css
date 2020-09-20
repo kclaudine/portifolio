@@ -8,3 +8,7 @@ img {
     border-radius: 20%;
     padding-left: 5px;
 }
+body h4{
+    font-family: cursive;
+    text-transform: uppercase;
+}
